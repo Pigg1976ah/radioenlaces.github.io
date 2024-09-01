@@ -1,9 +1,11 @@
 Servicio de Radioenlace de Estación Fija
 
 ¿Qué es el Servicio de Radioenlace de Estación Fija?
+
 El servicio de radioenlace de estación fija es un sistema de comunicación que utiliza ondas de radio para transmitir información entre dos o más puntos fijos sin necesidad de una conexión física. Este tipo de enlace se utiliza a menudo para transferir datos, voz y vídeo a través de diferentes áreas geográficas, especialmente en áreas donde el cableado físico no está disponible o es costoso.
 
 Características Clave
+
 Las estaciones que transmiten y reciben son estacionarias y tienen una ubicación fija.
 Los organismos reguladores suelen asignar bandas de frecuencia específicas a los enlaces de radio. Las bandas de microondas de 1 GHz a 30 GHz son las más utilizadas, pero se utilizan otras bandas según la aplicación y la distancia recorrida.
 Las antenas son antenas que enlazan puntos fijos y concentran las señales en una dirección específica, lo que ayuda a reducir las interferencias y mejorar la eficiencia.
